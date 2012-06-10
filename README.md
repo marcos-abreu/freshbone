@@ -3,7 +3,7 @@ freshbone
 
 web application framework for building freshbooks applications based on its public API. This framework was build as a layer on top of Backbone.js.
 
-Features:
+**This Framework is under development and is currently not considered stable.**
 
 Freshbooks public API - XML Requests
 ------------------------------------
@@ -69,13 +69,4 @@ Freshbone Transition
 --------------------
 
 - This object is responsible for managing the screen transitions of Freshbone applications, making sure the origin and destination pages stay in the desired state.
-
-
-Current Status
-==============
-
-This Framework is under development and is currently not considered stable.
-
-
-
 
